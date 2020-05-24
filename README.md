@@ -8,7 +8,7 @@ Puis afficher les détails de chaque élément dès lors qu'on clique sur celui-
 # Page principale
 Voici un apperçu de ma page d'accueil avec la liste des éléments de mon API. Dans mon cas, il s'agit d'une liste de blagues de l'acteur Chuck Norris : https://api.icndb.com/jokes/
 
-![accueil](https://user-images.githubusercontent.com/55489128/82762581-1a80e700-9e02-11ea-97de-05beeda644dd.png)
+![accueil](https://user-images.githubusercontent.com/55489128/82763126-992b5380-9e05-11ea-98f2-6fab751ca19e.png)
 
 # Page de détails
 Ensuite une fois qu'on clique sur l'un des éléments, une autre pages s'ouvre avec le détail de l'élément sélectionné.
